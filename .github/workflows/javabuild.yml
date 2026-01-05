@@ -2,7 +2,7 @@
 name: Build
 
 on: 
- workflow_call:
+ workflow_call:Trigger Build
 
 jobs:
   build:
